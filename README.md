@@ -1,5 +1,5 @@
 # DreamWalker
-Using a non‐invasive method (EEG) to access brain signals, we can harness generative AI, deep learning, and large language models to usher human communication into a new era of telecommunications.
+Using a non‐invasive method (EEG) to access brain signals, we can harness generative AI, deep learning, and large language models to usher human communication into a new era of telecpathic communications.
 ![image](https://github.com/user-attachments/assets/b44558ed-7515-47c3-be8d-666908863a86)
 
 
